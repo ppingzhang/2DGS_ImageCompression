@@ -27,7 +27,7 @@ Test command:
 > python main.py --eval=True --primary_samples=100 --backup_samples=100 --num_embeddings=32 --outf=100_32 --num_epochs=2000 --image_dir=./data/kodim01.png 
 
 
->  **PS:**
+**PS:**
 >  - I would be very happy if you could accelerate it or convert it into CUDA language. Try it!
 >  - I've exported the environment.yml file from my Conda environment for reference purposes. 
 >  - Please feel free to contact me if you have any problem.
