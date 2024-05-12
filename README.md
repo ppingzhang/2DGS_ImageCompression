@@ -28,7 +28,7 @@ Test command:
 
 
 **PS:**
->  - I would be very happy if you could accelerate it or convert it into CUDA language. Try it!
+>  - I'll be very happy if you could accelerate it or convert it into CUDA language. Try it!
 >  - I've exported the environment.yml file from my Conda environment for reference purposes. 
 >  - Please feel free to contact me if you have any problem.
 
